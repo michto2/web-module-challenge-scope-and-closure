@@ -68,11 +68,12 @@ dansRoll();
 ```
 
 a. Where is closure used in this code? How can you tell? 
-newRoll becomes the function
+newRoll - it is in the function and can access the  
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
 changing the name parameter to call another name. 
-
 c. What is the lexical scope of `newRoll`? 
+ dansRoll
+
 
 
 ### Task 3 - Stretch Goals
